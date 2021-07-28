@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Testing IO shopping Application" name="Verify creation of new list and add new item and then remove it" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given IO shopping app is install............................................undefined
+When select type of application UI..........................................undefined
+And click on menu item......................................................undefined
+And click on new list.......................................................undefined
+And create new list as "NewList01"..........................................undefined
+And click on menu item......................................................undefined
+And click on new list.......................................................undefined
+And create new list as "NewList02"..........................................undefined
+And add new item as "NewItem01".............................................undefined
+Then delete the recently created item from list.............................undefined
+]]></failure>
+</testcase>
+</testsuite>
